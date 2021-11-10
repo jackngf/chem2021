@@ -1,0 +1,23 @@
+{
+    "wordlist_json": [
+      {
+        "id": "0001",
+        "name": "Item 1",
+        "description": "Description 1",
+        "bookmarked": "0"
+        
+      },
+      {
+        "id": "0002",
+        "name": "Item 2",
+        "description": "Description 2",
+        "bookmarked": "0"
+      },
+      {
+        "id": "0002",
+        "name": "Item 3",
+        "description": "Description 3",
+        "bookmarked": "0"
+      }
+    ]
+    }
