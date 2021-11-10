@@ -2,17 +2,17 @@
   {
     "id": "0001",
     "name": "Item 1",
-    "description": "Description 1"
+    "chi_name": "化學物品－001！＊＆＊︿"
   },
   {
     "id": "0002",
     "name": "Item 2",
-    "description": "Description 2"
+    "chi_name": "化學物品－001！＊＆＊︿"
   },
   {
-    "id": "0002",
+    "id": "0003",
     "name": "Item 3",
-    "description": "Description 3"
+    "chi_name": "化學物品－001！＊＆＊︿"
   }
 ]
   
