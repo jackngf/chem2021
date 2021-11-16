@@ -1,16 +1,16 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Item 1",
     "chi_name": "順-二氨二氯合鉑(II)，順-二氯‧二氨合鉑(II)"
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Item 2",
     "chi_name": "順-二氨二氯合鉑(II)，"
   },
   {
-    "id": "3",
+    "id": 3,
     "name": "Item 3",
     "chi_name": "離心分離法"
   }
